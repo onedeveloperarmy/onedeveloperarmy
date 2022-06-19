@@ -1,10 +1,12 @@
-## 👋 Hi there, I'm Gopal Rajbanshi (onedeveloperarmy)
-- 💻 I'm Full Stack Software
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning everything 🤣.
-- 🖥  I’m currently working at Pratham IT System Pvt Ltd.
-- ⛳️ Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music ❤️❤️🎻🎻
+### 👋 Hi there👋,
+### This is One Developer Army
+
+- 💻 Full Stack Software Developer
+- 👀 Interested in Tech
+- 🌱 Learning something 🤣.
+- 🖥  Working at Pratham IT System Pvt Ltd as a Full-Stack .NET Developer.
+- ⛳️ Goals: Earn enough money for retirement after 35yr
+- ⚡ Fun fact: I love nothing but I like something 
 
 ### Connect with me:
 
